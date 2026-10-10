@@ -1,0 +1,1216 @@
+[{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 1,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7345117017508659200",
+  "urn": "urn:li:activity:7345117017508659200",
+  "activityId": "7345117017508659200",
+  "postUrl": "https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7345117017508659200-1dyv",
+  "postType": "POST",
+  "contentTypes": [
+    "IMAGE"
+  ],
+  "text": "What is an AI Agent?\n\nAn AI agent is a software program that can interact with its environment, gather data, and use that data to achieve predetermined goals. AI agents can choose the best actions to perform to meet those goals.\n\nKey characteristics of AI agents are as follows:\n\nAn agent can perform autonomous actions without constant human intervention. Also, they can have a human in the loop to maintain control.\n- Agents have a memory to store individual preferences and allow for personalization. It can also store knowledge. An LLM can undertake information processing and decision-making functions.\n- Agents must be able to perceive and process the information available from their environment.\n- Agents can also use tools such as accessing the internet, using code interpreters and making API calls.\n- Agents can also collaborate with other agents or humans.\n\nMultiple types of AI agents are available such as learning agents, simple reflex agents, model-based reflex agents, goal-based agents, and utility-based agents.\n\nA system with AI agents can be built with different architectural approaches.\n\n1 - Single Agent: Agents can serve as personal assistants.\n2 - Multi-Agent: Agents can interact with each other in collaborative or competitive ways.\n3 - Human Machine: Agents can interact with humans to execute tasks more efficiently.\n\nOver to you: Have you used AI Agents?\n\n--\nSubscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/bbg-social\n\n#systemdesign #coding #interviewtips\n.",
+  "publishedAt": "2025-06-29T15:52:42.621Z",
+  "author": {
+    "name": "Alex Xu",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/alexxubyte/",
+    "publicIdentifier": "alexxubyte",
+    "followersCount": 1036607,
+    "profilePictureUrl": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"
+  },
+  "engagement": {
+    "reactionsCount": 3527,
+    "commentsCount": 128,
+    "repostsCount": null
+  },
+  "hashtags": [
+    "systemdesign",
+    "coding",
+    "interviewtips"
+  ],
+  "mentions": [],
+  "media": [
+    {
+      "type": "IMAGE",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQGM0sDVYAT_ag/feedshare-shrink_800/B4EZe8Y9d9HIAg-/0/1751212357466?e=2147483647&v=beta&t=F85oOnNrdXB8XkKD1u4FNYxraq85iLV3FCbstQ20UAQ",
+      "thumbnailUrl": null,
+      "title": "graphical user interface, application",
+      "width": null,
+      "height": null,
+      "durationSeconds": null
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.170Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 2,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7327565826289516544",
+  "urn": "urn:li:activity:7327565826289516544",
+  "activityId": "7327565826289516544",
+  "postUrl": "https://www.linkedin.com/posts/michal-choinski-49373112a_when-did-ai-become-all-about-agents-ai-activity-7327565826289516544-e5GY",
+  "postType": "POST",
+  "contentTypes": [
+    "IMAGE"
+  ],
+  "text": "When did AI become all about agents?\n\nAI agents are just software.\n\nThey’re built by engineers, packaged by marketers, and sold with a storyline.\n\nThat’s not cynicism, it’s how the product cycle works.\n\nWhat concerns me is the myth that gets layered on top.\n\nSuddenly, basic automations are framed as “autonomous thinkers.”\n\nWorkflows become “co-pilots.”\n\nAnd we’re told that if we’re not integrating AI agents, we’re falling behind.\n\nBut I’ve built products. I’ve bought products. I’ve scaled teams.\n\nAnd I’ve learned this:\n\nThe tool doesn’t matter unless it fixes a real problem.\n\nYou don’t need an AI agent.\n\nYou need perspective, the kind that shows where the friction really is.\n\nPerspective on what’s slowing your team down\n\nPerspective on where decisions stall\n\nPerspective on what actually drives progress for your business\n\nOnce that’s clear, the right tools, AI or not, become obvious.\n\nAnd they usually don’t come in flashy packaging.\n\nYou don’t need more hype.\n\nYou need grounded tools that solve meaningful problems.\n\nIf you’re trying to navigate this space without getting sold to, I’m happy to share what’s worked for us, and what wasn’t worth the pitch.",
+  "publishedAt": "2025-05-12T05:30:32.556Z",
+  "author": {
+    "name": "Michał Choiński",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/micha%C5%82-choi%C5%84ski-49373112a/",
+    "publicIdentifier": "michał-choiński-49373112a",
+    "followersCount": 12052,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEHpAl2GdJLyA/profile-displayphoto-shrink_400_400/B4DZWEjLZoHAAk-/0/1741685569625?e=2147483647&v=beta&t=vU_pg65Xn61UdGPCs12FBxzb_CKTYwRo96gaBOvM1_I"
+  },
+  "engagement": {
+    "reactionsCount": 146,
+    "commentsCount": 198,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "IMAGE",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQENmADPeU29oQ/feedshare-shrink_1280/B4DZbC.SV0HEAo-/0/1747027831519?e=2147483647&v=beta&t=e9ZiDRmRqnLJpDStlLtF5k-u_CQdMqg2_H0KVjhQDNo",
+      "thumbnailUrl": null,
+      "title": null,
+      "width": null,
+      "height": null,
+      "durationSeconds": null
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.170Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 3,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7315357847985233920",
+  "urn": "urn:li:activity:7315357847985233920",
+  "activityId": "7315357847985233920",
+  "postUrl": "https://www.linkedin.com/posts/jsu05_ai-agents-for-dummies-activity-7315357847985233920-OdO1",
+  "postType": "POST",
+  "contentTypes": [
+    "DOCUMENT"
+  ],
+  "text": "What are AI agents?\n\n(for dummies)\n\nAs someone with 0 technical background, I've found the best way to understand AI Agents is to build on concepts I already grasp.\n\nLevel 1️⃣ - Large Language Models\n\nLarge Language Models (LLMs) like ChatGPT are passive systems that generate outputs based on inputs but can't access external information or take autonomous actions.\n\nNote: Technically, ChatGPT is an application built on top of LLMs, but we can simplify for now.\n\nLevel 2️⃣ - AI Workflows\n\nAI Workflows combine LLMs with external tools (like calendar access or weather data). They follow rigid, predefined paths set by humans, who remain the decision-makers.\n\nLevel 3️⃣ - AI Agents\n\nHere, the LLM itself becomes the decision-maker. It autonomously reasons about problems, selects appropriate tools, and iterates until it achieves its goals.\n\nHere’s an (extremely) oversimplified example:\n\n1️⃣ ChatGPT can draft an email requesting a coffee chat, but if you ask \"When is that coffee chat?\" it fails because it has no access to your calendar.\n\n2️⃣ Give ChatGPT access to your Google Calendar and it becomes an AI workflow.\n\nIMPORTANT: ChatGPT didn't make that decision - you did.\n\n3️⃣ A workflow evolves into an AI Agent when the LLM independently (1) Reasons: \"To find the user's events, I need calendar access\" and (2) Acts: \"I'll connect to their Google Calendar API.\"\n\nCheck out the full video for a deeper breakdown with more examples!\n\n#AIagents",
+  "publishedAt": "2025-04-08T13:00:23.706Z",
+  "author": {
+    "name": "Jeff Su",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/jsu05/",
+    "publicIdentifier": "jsu05",
+    "followersCount": 99599,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEmYEH2_P8UzA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711179090909?e=2147483647&v=beta&t=xSUYUuaKxxjE6wYPp2lDIOxpDFwPcZ8MlvPE4r7TuPI"
+  },
+  "engagement": {
+    "reactionsCount": 642,
+    "commentsCount": 96,
+    "repostsCount": null
+  },
+  "hashtags": [
+    "aiagents"
+  ],
+  "mentions": [],
+  "media": [
+    {
+      "type": "DOCUMENT",
+      "url": "https://media.licdn.com/dms/document/pl/v2/D561FAQEFe0kvOtJSyw/feedshare-document-master-manifest/B56ZYP94OXHoBY-/0/1744024618071?e=2147483647&v=beta&t=5Fjb7sec05OIQE24wZle8rtKGOa39cPRqWxTp3xPkuA",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D561FAQEFe0kvOtJSyw/feedshare-document-cover-images_480/B56ZYP94OXHoBI-/0/1744024615732?e=2147483647&v=beta&t=XbvsN-zSE6J8lZJn1Cu-kTu2xEuqr6NwLeCXN7skkmM",
+      "title": "AI Agents (for dummies)",
+      "width": 393,
+      "height": 492,
+      "durationSeconds": null,
+      "pageCount": 7
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.170Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 4,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7374820082503520256",
+  "urn": "urn:li:activity:7374820082503520256",
+  "activityId": "7374820082503520256",
+  "postUrl": "https://www.linkedin.com/posts/neiltewari_90-of-ai-agents-are-not-actually-agents-activity-7374820082503520256-_0VV",
+  "postType": "POST",
+  "contentTypes": [
+    "IMAGE"
+  ],
+  "text": "90% of “AI agents” are not actually agents. They are fancier GPT prompts and API calls scoped to very specific tasks. And that’s fine.\n\nThe truth: no real enterprise agents actually work today. At Conversion, we never claim to have fully agentic AI. The best AI increases human productivity. It doesn't replace humans.\n\nSo what actually defines an AI agent?\n\n1. Continuous reasoning loop: not just answering a single query, but actively deciding what to do next\n2. Tool use: the ability to call external systems or APIs to get things done\n3. Adaptation: learning from outcomes and adjusting behavior over time\n4. Autonomy: operating independently with minimal human oversight to complete tasks\n\nThat is the bar.\n\nWhen most AI SaaS companies pitch you “agents,” what they are really selling is pre-defined workflows that don’t need human intervention. Things like:\n\n- auto-scheduling meetings with pre-written email templates\n- generating a sequence of LinkedIn messages to prospects\n- automatically enriching CRM records with scraped data\n\nUseful? Absolutely. Agents? Not quite.\n\nSo can we please be done with the “AI agent” buzzword? Not all AI needs to be agentic. The best AI makes people better, not irrelevant.",
+  "publishedAt": "2025-09-19T15:02:05.178Z",
+  "author": {
+    "name": "Neil Tewari",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/neiltewari/",
+    "publicIdentifier": "neiltewari",
+    "followersCount": 21009,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHyZHVq-EBSuQ/profile-displayphoto-scale_400_400/B56ZhYuFh3HUAg-/0/1753835135173?e=2147483647&v=beta&t=rS4AX3erVh1FYnYhe8k2Rgy7yQZSRpwW3B76WqS87wM"
+  },
+  "engagement": {
+    "reactionsCount": 40,
+    "commentsCount": 10,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "Conversion",
+      "type": "COMPANY",
+      "url": "https://www.linkedin.com/company/tryconversion/",
+      "publicIdentifier": "tryconversion"
+    }
+  ],
+  "media": [
+    {
+      "type": "IMAGE",
+      "url": "https://media.licdn.com/dms/image/v2/D5610AQHcT0aN0NgfKw/image-shrink_1280/B56ZlifycNJ0AM-/0/1758294125005?e=2147483647&v=beta&t=iHuuCyooDMikNlWJg-DVEVEz6zuY-uBbGqeaP80mToY",
+      "thumbnailUrl": null,
+      "title": null,
+      "width": null,
+      "height": null,
+      "durationSeconds": null
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.170Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 5,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7287808409637191681",
+  "urn": "urn:li:activity:7287808409637191681",
+  "activityId": "7287808409637191681",
+  "postUrl": "https://www.linkedin.com/posts/daveebbelaar_everybodys-talking-about-ai-agents-but-activity-7287808409637191681-5LuV",
+  "postType": "POST",
+  "contentTypes": [
+    "VIDEO"
+  ],
+  "text": "Everybody's talking about AI agents, but almost no one understands what they actually are.\n\nThe term “AI agent” has become a catch-all for anything involving automation + LLMs.\n\nBut most “agents” you see online are just workflows with an LLM API call.\n\nAgents dynamically plan, act, and adapt autonomously to reach a goal.\nWorkflows follow predefined paths.\n\nMost business problems don’t require agents—they’re solved with simple, deterministic workflows that integrate LLM calls.\n\nEven tech giants like Apple and Amazon struggle to implement true agentic systems (see: Apple Intelligence rollbacks, Alexa’s hallucinations).\n\nThe hype around “agents” creates confusion, pushing developers toward complex frameworks and tools.\n\nJust keep things simple.\n\nStart by working directly with the LLM API. Skip the abstractions. Build structured, testable workflows that solve real problems today.\n\nTrue agents do have their place, but they’re still notoriously hard to scale. Focus on fundamentals first.\n\nWant to go deeper? Here's the full video where I break down the core patterns for building reliable AI systems: https://lnkd.in/eMsyjQRA\n\nP.S. If you’re a developer serious about AI engineering, let’s connect. I share resources and tutorials to cut through the noise.",
+  "publishedAt": "2025-01-22T12:28:45.773Z",
+  "author": {
+    "name": "Dave Ebbelaar",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/daveebbelaar/",
+    "publicIdentifier": "daveebbelaar",
+    "followersCount": 23692,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFVqYI7mDD1fg/profile-displayphoto-scale_400_400/B4EZrabxHOIQAg-/0/1764601306094?e=2147483647&v=beta&t=ZC_QjzZgf0CKXgi1ns0xbxPPbFtx4e-N1ELouxcmrXo"
+  },
+  "engagement": {
+    "reactionsCount": 357,
+    "commentsCount": 31,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEAK863qyF_Fg/mp4-720p-30fp-crf28/B4EZSN9n39G0Bg-/0/1737548875923?e=2147483647&v=beta&t=gpUo7bidxutjIHYeanCwVppfmmTDLi3pquOY7d7EX68",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQEAK863qyF_Fg/feedshare-thumbnail_720_1280/B4EZSN9n39G0A8-/0/1737548530547?e=2147483647&v=beta&t=Lmj-9_CPTLl5D5Xsgf94f3W1-CN71y951lzJvuQ_gqQ",
+      "title": null,
+      "width": 1280,
+      "height": 720,
+      "durationSeconds": 334
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.170Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 6,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7355948275511803906",
+  "urn": "urn:li:activity:7355948275511803906",
+  "activityId": "7355948275511803906",
+  "postUrl": "https://www.linkedin.com/posts/armand-ruiz_ai-agents-101-lets-learn-the-basics-activity-7355948275511803906-nWmM",
+  "postType": "POST",
+  "contentTypes": [
+    "IMAGE"
+  ],
+  "text": "AI Agents 101 - Let's learn the basics:\n\n𝗪𝗵𝗮𝘁 𝗜𝘀 𝗮𝗻 𝗔𝗴𝗲𝗻𝘁?\nAn AI agent is a system designed to reason through complex problems, create actionable plans, and execute these plans using a suite of tools.\n\nIt follows this continuous cycle:\n\n1/ Think – The agent processes available data and context.\n\n2/ Plan – It decides on a strategy to achieve a goal or answer a question.\n\n3/ Act – It executes the chosen plan (e.g., makes an API call, retrieves data, or interfaces with a user).\n\n4/ Reflect – It evaluates the outcome of its actions, checks for errors or new insights, and uses those reflections to inform the next iteration of thought.\nThese four steps form a feedback loop that enables agents to adapt their approach as new information arrives.\n\n𝗧𝗵𝗲 𝗥𝗼𝗹𝗲 𝗼𝗳 𝗟𝗟𝗠𝘀\nUnder the hood, agents leverage LLMs and their brains. These LLMs can be:\n\n1/ Open: Harnessing publicly available models or open-source alternatives.\n\n2/ Small: Optimized or compressed versions that can run on local hardware more efficiently.\n\n3/ Trained & Tuned Anywhere: Thanks to modern tooling, LLMs can now be developed, fine-tuned, and deployed in various environments—from the public cloud to on-premises servers.\n\nLLMs provide the core reasoning, comprehension, and language generation abilities that agents require.\n\n𝗛𝗼𝘄 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗧𝗮𝘀𝗸𝘀\nPutting everything together, the workflow of an AI agent system might look like this:\n\n1/ User or system triggers a request.\n\n2/ LLM-based agent uses an internal reasoning loop (think → plan → act → reflect) to interpret the request and plan next steps.\n\n3/ The agent makes calls to GenAI APIs or enterprise data/services (via GraphQL, OpenAPI, etc.) to gather more information.\n\n4/ The agent processes the gathered data and formulates a response or an action.\n\n5/ It executes that action or generates a final output to the user or system.\n\n6/ Logging and monitoring systems record metrics (accuracy, compliance, fairness, relevance) so that developers and administrators can refine the agent’s behavior.\n\nThe business world is not yet ready to fully adopt agents; they are still in the very early experimental stage, and that's why everyone is implementing RAG like crazy, as it is a safer bet.\n\nBut believe me, AI agents are where it's at, and at the current pace of innovation, we will soon start collaborating with AI agents instead of humans for some specific tasks.\n\n____\n\nPlease repost it ♻️ and follow me, Armand Ruiz for more similar posts.",
+  "publishedAt": "2025-07-29T13:12:15.765Z",
+  "author": {
+    "name": "Armand Ruiz",
+    "type": "PERSON",
+    "headline": "ai @meta - the upside is infinite",
+    "profileUrl": "https://www.linkedin.com/in/armand-ruiz/",
+    "publicIdentifier": "armand-ruiz",
+    "followersCount": 207736,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGvyGm3H06AYA/profile-displayphoto-scale_400_400/B56Zy_Dk7wJ8Ak-/0/1772731914351?e=2147483647&v=beta&t=GhQ6vn-O-mpNyd9jGQRFZToDXGl7Or8Fs-eAcFVfaO8"
+  },
+  "engagement": {
+    "reactionsCount": 922,
+    "commentsCount": 74,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "Armand Ruiz",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/armand-ruiz/",
+      "publicIdentifier": "armand-ruiz"
+    }
+  ],
+  "media": [
+    {
+      "type": "IMAGE",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQEDZr8YleLSqw/feedshare-shrink_800/B56ZhWT.OZHMAg-/0/1753794734233?e=2147483647&v=beta&t=bcPjGXuuiaE8U2y7VqtLo3LVsA96LYbKVZ4onVHPFwk",
+      "thumbnailUrl": null,
+      "title": "diagram",
+      "width": null,
+      "height": null,
+      "durationSeconds": null
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.170Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 7,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7339504895927930880",
+  "urn": "urn:li:activity:7339504895927930880",
+  "activityId": "7339504895927930880",
+  "postUrl": "https://www.linkedin.com/posts/aishwarya-srinivasan_wondering-how-ai-agents-work-an-ai-agent-activity-7339504895927930880-mjNk",
+  "postType": "POST",
+  "contentTypes": [
+    "IMAGE"
+  ],
+  "text": "Wondering how AI Agents work?\n\nAn AI agent typically follows a structured process involving interconnected modules and clear steps:\n\n1️⃣ Perception (Input Collection): Gathers real-time data from the environment, serving as the agent’s sensory input.\n\n2️⃣ Data Processing & Understanding: Processes input data to extract meaningful patterns and contextual insights.\n\n3️⃣ Decision Making (Reasoning & Planning): Uses AI models and logical reasoning to determine optimal actions and strategies.\n\n4️⃣ Action Execution (Output Generation): Implements decisions by directly interacting with the environment, performing tasks, or generating responses.\n\n5️⃣ Learning & Improvement: Refines and enhances performance by continuously analyzing feedback.\n\n6️⃣ Feedback Loop & Adaptation: Adapts dynamically by using feedback to optimize decision-making and performance continuously.\n\nTogether, these modules and steps empower AI agents to autonomously perceive, reason, act, and adapt, mirroring intelligent human behaviors.\n\nIf you're an AI engineer eager to get started with building AI agents, check out these top tools and frameworks in March 2025:\n\n→ Microsoft AutoGen – Facilitates seamless multi-agent collaboration: https://lnkd.in/d36cU42f\n\n→ Langchain – Integrates AI agents effortlessly with powerful large language models: https://lnkd.in/d5zqZW_C\n\n→ CrewAI – Optimizes human-like understanding and behavioral prediction, perfect for personalized assistance: https://lnkd.in/dHBCPmkX\n\n→ SmolAgents – Ideal for lightweight applications, focusing on minimal-resource AI agent deployments: https://lnkd.in/dTwRdQMq\n\nThese tools provide robust solutions tailored for diverse industries and use cases.\n\nPS: Make sure you are trying out these tools and building portfolio projects. The best way to learn is to DO!\n\n-----------------------\nShare this with your network ♻️\nFollow me (Aishwarya Srinivasan) for more AI insights, news, and educational resources to keep you up-to-date about the AI space!",
+  "publishedAt": "2025-06-14T04:12:08.561Z",
+  "author": {
+    "name": "Aishwarya Srinivasan",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/aishwarya-srinivasan/",
+    "publicIdentifier": "aishwarya-srinivasan",
+    "followersCount": 652949,
+    "profilePictureUrl": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"
+  },
+  "engagement": {
+    "reactionsCount": 390,
+    "commentsCount": 53,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "Aishwarya Srinivasan",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/aishwarya-srinivasan/",
+      "publicIdentifier": "aishwarya-srinivasan"
+    }
+  ],
+  "media": [
+    {
+      "type": "IMAGE",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQFnYYU0yik4WQ/feedshare-shrink_1280/B4DZdsoxVMGYAk-/0/1749874326081?e=2147483647&v=beta&t=_0ntmSx1cSBGxRTbdZFxWQcII0LgF6TpyRep0FbR_xo",
+      "thumbnailUrl": null,
+      "title": "diagram",
+      "width": null,
+      "height": null,
+      "durationSeconds": null
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.170Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 8,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7409625634811056128",
+  "urn": "urn:li:activity:7409625634811056128",
+  "activityId": "7409625634811056128",
+  "postUrl": "https://www.linkedin.com/posts/hienluu_github-hienluuclaude-code-clone-a-simple-activity-7409625634811056128-lGLk",
+  "postType": "ARTICLE",
+  "contentTypes": [
+    "ARTICLE"
+  ],
+  "text": "One of the best ways to learn about 🤖 AI agents is to build one from scratch, without relying on any framework. Following an excellent tutorial from freeCodeCamp.org, I created a simple Claude Code clone using Gemini, complete with four file-related tools, basic memory, and a straightforward agentic loop.\n\nI was genuinely surprised by what it could accomplish. For instance, it successfully identified and fixed an operator precedence bug in a simple calculator.\n\nIf you're curious about building AI agents yourself, check out freeCodeCamp.org's \"Guide to Agentic AI – Build a Python Coding Agent with Gemini\" on YouTube and explore my GitHub repo.\n\n🔗 YouTube: https://lnkd.in/eSynkgfB 🔗 GitHub: https://lnkd.in/eDnJuuVD\n\n#AgenticAI #AIAgents #FreeCodeCamp",
+  "publishedAt": "2025-12-24T16:06:55.504Z",
+  "author": {
+    "name": "Hien Luu",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/hienluu/",
+    "publicIdentifier": "hienluu",
+    "followersCount": 9640,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFHRCaRDNuDWw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1650992566304?e=2147483647&v=beta&t=s1YBauqM4HNcoK1OkYgX9mt3b7NvUUROgnKdAkF5Wm0"
+  },
+  "engagement": {
+    "reactionsCount": 215,
+    "commentsCount": 3,
+    "repostsCount": null
+  },
+  "hashtags": [
+    "agenticai",
+    "aiagents",
+    "freecodecamp"
+  ],
+  "mentions": [],
+  "media": [
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/hienluu/claude-code-clone",
+      "thumbnailUrl": null,
+      "title": "GitHub - hienluu/claude-code-clone: A simple AI coding agent for learning purposes",
+      "width": null,
+      "height": null,
+      "durationSeconds": null
+    }
+  ],
+  "article": {
+    "url": "https://github.com/hienluu/claude-code-clone",
+    "title": "GitHub - hienluu/claude-code-clone: A simple AI coding agent for learning purposes",
+    "description": null,
+    "thumbnailUrl": null,
+    "publisher": "github.com"
+  },
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.170Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 9,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7307419830251307008",
+  "urn": "urn:li:activity:7307419830251307008",
+  "activityId": "7307419830251307008",
+  "postUrl": "https://www.linkedin.com/posts/pavan-belagatti_here-is-a-gentle-introduction-to-ai-agents-activity-7307419830251307008-MADx",
+  "postType": "POST",
+  "contentTypes": [
+    "IMAGE"
+  ],
+  "text": "Here is a gentle introduction to 'AI Agents' (without any HYPE)😃\n\nAn AI agent can be understood as a computer program that can perform tasks or make decisions on its own, based on its goals and the information it receives.\n\nAn AI agent will primarily have three main components - Perception, Brain and Action.\n\nThese three components work together: the perception gathers information, the brain figures out what to do, and the action carries out the plan. This process allows AI agents to perform a wide variety of tasks, from answering questions to controlling complex systems.\n\nThe diagram illustrates the general workflow of an AI agent, which typically involves two core components: intra-execution and interaction.\n\nThe intra-execution component focuses on the processes within a single AI agent and comprises three main modules: perception, brain, and action, as dicussed above. The workflow begins with user input that goes through an input formatter tool as part of the perception module.\n\nThe input is then embedded, which is followed by reasoning and planning performed by the brain, which is where an LLM is used to analyse and deduce information and to devise strategies for specific objectives.\n\nThis results in subtasks, which are then executed by the action module, which may include calling external tools. The process iterates, moving between the brain and the action modules, until a final outcome is reached. The agent also interacts with its memory and environment.\n\nLet's take a real-life example to see how AI agents work. Let's say you need Nike shoes for running in under $500 and the color should be Blue. The AI agent would break down the user's request for Nike running shoes under $500 in blue into structured data. It would then use reasoning and planning to identify relevant shoe models, gather details, and evaluate options against the criteria. The agent would execute subtasks like querying e-commerce APIs and reviewing customer feedback, iterating between its brain and action modules until recommending the optimal shoe. Throughout, the agent would leverage its memory and environment to fulfill the user's requirements efficiently.\n\nHere is my complete guide on building AI agents using LangChain: https://lnkd.in/gfNs2S9i\n\nThis is my other article on building AI agents and chatbots using LangGraph: https://lnkd.in/g_xs-Uat\n\nThis is my article on building multi-AI agent systems: https://lnkd.in/g9J8q5hc",
+  "publishedAt": "2025-03-17T15:17:32.783Z",
+  "author": {
+    "name": "Pavan Belagatti",
+    "type": "PERSON",
+    "headline": "Technology Leader | AI Evangelist | Developer Advocate | Speaker | Tech Content Creator | Ask me about AI Agents, Agentic Engineering & DevOps",
+    "profileUrl": "https://www.linkedin.com/in/pavan-belagatti/",
+    "publicIdentifier": "pavan-belagatti",
+    "followersCount": 104613,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHYkKd2F9l0Zg/profile-displayphoto-scale_400_400/B56aAYm4jHGQAg-/0/1787119242183?e=2147483647&v=beta&t=IQoC2nO6Rtp8e1uMkIVi7hyRg2ICS8QoQyaUt_YCEDY"
+  },
+  "engagement": {
+    "reactionsCount": 718,
+    "commentsCount": 7,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "IMAGE",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQH_g2b2-xqJwg/feedshare-shrink_800/B56ZWkrnA2HQAs-/0/1742224651931?e=2147483647&v=beta&t=OP9qsGJfyDuEN5Abt0mfmFL8CR0LfT8cco9QL1ZR1rc",
+      "thumbnailUrl": null,
+      "title": "Workflow of AI Agent",
+      "width": null,
+      "height": null,
+      "durationSeconds": null
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.171Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 10,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7462438153325477889",
+  "urn": "urn:li:activity:7462438153325477889",
+  "activityId": "7462438153325477889",
+  "postUrl": "https://www.linkedin.com/posts/willfrancis_ai-agents-what-does-that-actually-mean-activity-7462438153325477889-vRha",
+  "postType": "POST",
+  "contentTypes": [
+    "VIDEO"
+  ],
+  "text": "\"AI Agents\" - what does that actually mean?\n\nHere's a simple explainer 😊",
+  "publishedAt": "2026-05-19T09:45:01.134Z",
+  "author": {
+    "name": "Will Francis",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/willfrancis/",
+    "publicIdentifier": "willfrancis",
+    "followersCount": 12874,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFTNka4_4Folg/profile-displayphoto-scale_400_400/B4EZy9XEuXJEAk-/0/1772703469231?e=2147483647&v=beta&t=8dSGVn-nhByD5nVsfcQYQJfm7JDudwZXCwNdmL6b_-A"
+  },
+  "engagement": {
+    "reactionsCount": 27,
+    "commentsCount": 4,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQFYOzpXrGUlkg/mp4-720p-30fp-crf28/B56Z49AvXQHEB8-/0/1779140104114?e=2147483647&v=beta&t=ReqRvF5EdX-hUzfskOpGlWyuUmvd5YkTdwQD3LQQl9Y",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5605AQFYOzpXrGUlkg/videocover-high/B56Z49AvXQHEBM-/0/1779140078363?e=2147483647&v=beta&t=LixQmPpLzHXXrfdov6uOJ9Sg52c1W3eB5fck7RWPZEw",
+      "title": null,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 164
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:38.171Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 11,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514411233203093504",
+  "urn": "urn:li:activity:7514411233203093504",
+  "activityId": "7514411233203093504",
+  "postUrl": "https://www.linkedin.com/posts/chrismleone_agentic-apps-how-big-companies-are-actually-activity-7514411233203093504-OepY",
+  "postType": "POST",
+  "contentTypes": [
+    "VIDEO"
+  ],
+  "text": "I have been following Cole Medin for years, and he’s easily one of my favorite AI influencers. He’s a true expert in all things AI, especially when it comes to actually building and deploying AI agents.\n\nSo I was really excited to see Cole put together a video highlighting Oracle Fusion AI Agent Studio and showing how to build real enterprise Agentic Applications!\n\nWhat I particularly like is how he explains the difference between building a chatbot and building an Agentic Application that actually gets work done.\n\nMultiple agents working toward a business outcome, AI reasoning where judgment is needed, deterministic execution for business rules, and governance built into the process.\n\nThis is exactly the direction we believe enterprise applications are heading. Moving beyond AI that simply answers questions to AI that takes responsibility for completing work.\n\nAnd with our recent launch of Oracle Fusion Claw, we’re taking this even further, enabling AI to tackle much more complex, higher-value business outcomes that require deep research, analysis, decision-making, and governed execution.\n\nGreat job, Cole! Really appreciate you exploring our platform and sharing your perspective. Maybe we can convince you to do a follow-up video featuring Fusion Claw and some of the incredible new use cases we can now deliver with truly agentic AI!\n\nAnd Cole, you have officially earned an Oracle AI Builder Jacket! 🦺🔥\n\nBuilders gonna build! 🦺🚀\n\n#OracleAI #FusionAI #FusionClaw #AIAgentStudio #AgenticAI\n\nhttps://lnkd.in/gyyuhBgm",
+  "publishedAt": "2026-10-09T19:47:29.003Z",
+  "author": {
+    "name": "Chris Leone",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/chrismleone/",
+    "publicIdentifier": "chrismleone",
+    "followersCount": 26038,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFlFmhBpfBtkg/profile-displayphoto-scale_400_400/B4EaDtAMGdG0Ak-/0/1790682645257?e=2147483647&v=beta&t=ErAewn1QCQZvUGW24k9zoEr8S43jqC7Tqx1l-_XglmM"
+  },
+  "engagement": {
+    "reactionsCount": 368,
+    "commentsCount": 42,
+    "repostsCount": null
+  },
+  "hashtags": [
+    "oracleai",
+    "fusionai",
+    "fusionclaw",
+    "aiagentstudio",
+    "agenticai"
+  ],
+  "mentions": [
+    {
+      "name": "Cole Medin",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/cole-medin-727752184/",
+      "publicIdentifier": "cole-medin-727752184"
+    }
+  ],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://www.youtube.com/watch?v=cWjS56edaUA",
+      "thumbnailUrl": null,
+      "title": "Agentic Apps: How Big Companies Are Actually Deploying AI Agents",
+      "width": null,
+      "height": null,
+      "durationSeconds": null
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 12,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514625867319255041",
+  "urn": "urn:li:activity:7514625867319255041",
+  "activityId": "7514625867319255041",
+  "postUrl": "https://www.linkedin.com/posts/heleneguillaume_ai-agents-are-getting-smarter-but-also-a-activity-7514625867319255041-fsZL",
+  "postType": "POST",
+  "contentTypes": [
+    "VIDEO"
+  ],
+  "text": "AI agents are getting smarter. But also a bit lazy. 😂\n\nAnd this is exactly why I check their work.\nYou give an AI agent a task, and it finds the quickest way to get it done.\nJust like putting every shape into the square hole. 😅\n\nTechnically, the task is complete. But was that really the solution you wanted?\nI've seen this happen when working with Claude and ChatGPT.\nThey can be incredibly capable, but if you don't define the rules, they may\ntake shortcuts you never intended.\n\nSo here's what I've learned:\n→ Define what a successful result looks like.\n→ Tell your AI what shortcuts to avoid.\n→ Ask it to explain important decisions.\n→ Review the outcome, not just whether it finished.\n\nBecause completing a task and solving a problem aren't always the same thing.\nAnd sometimes, your very clever AI agent is just a toddler who's discovered that everything fits in the square hole. 😂\n\nWhat's the funniest shortcut your AI has taken?\n\nFollow me Helene Guillaume Pabis for your daily updates\nRepost if you experienced this too with your AI tool\nSign up to my free newsletter: https://lnkd.in/dy3wzu9A",
+  "publishedAt": "2026-10-10T10:00:21.765Z",
+  "author": {
+    "name": "Helene Guillaume Pabis",
+    "type": "PERSON",
+    "headline": "Energy Wins ⚡️ You’re the authority: I help you be seen with my agency | LinkedIn sold my Company | Sold my AI company (NYSE) | Keynote Speaker | Board",
+    "profileUrl": "https://www.linkedin.com/in/heleneguillaume/",
+    "publicIdentifier": "heleneguillaume",
+    "followersCount": 84867,
+    "profilePictureUrl": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"
+  },
+  "engagement": {
+    "reactionsCount": 27,
+    "commentsCount": 12,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "Helene Guillaume Pabis",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/heleneguillaume/",
+      "publicIdentifier": "heleneguillaume"
+    }
+  ],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFgowulSSXr0Q/mp4-720p-30fp-crf28/B4EaEkJYuKKgB8-/0/1791607807960?e=2147483647&v=beta&t=9Bkwbx4PzZy0GGdJkEmF5sZS4ZWBuL2IlUOuGUHSTak",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFgowulSSXr0Q/videocover-high/B4EaEkJYuKKgBM-/0/1791607804292?e=2147483647&v=beta&t=cylC45MF7qe9nQF2SYXnTt5NpgznCPhyjajqebUERO8",
+      "title": null,
+      "width": 360,
+      "height": 640,
+      "durationSeconds": 59
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 13,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514504996403650561",
+  "urn": "urn:li:activity:7514504996403650561",
+  "activityId": "7514504996403650561",
+  "postUrl": "https://www.linkedin.com/posts/naresh-edagotti-6a71a1233_ai-agents-ruined-my-interview-not-because-activity-7514504996403650561-dIg2",
+  "postType": "POST",
+  "contentTypes": [
+    "TEXT"
+  ],
+  "text": "AI Agents ruined my interview.\nNot because agents are difficult.\nBecause I thought I understood them.\n\nThen the interviewer asked me 5 questions.\nBy the third one, I realized I only knew how to build agents.\nI didn't fully understand how they behave in production.\n\nIf you're preparing for AI Engineer, GenAI Engineer, or Agentic AI roles, try answering these without Googling:\n1️⃣ Why not use 10 agents instead of 1?\nMost candidates immediately say:\n\"More agents = better results.\"\nBut what happens to:\n→ Latency\n→ Cost\n→ Reliability\n→ Error propagation\n→ Observability\n2️⃣ Your agent keeps calling the same tool repeatedly and never finishes the task.\nHow would you detect and prevent this?\nWhat guardrails would you add?\n3️⃣ When should an agent ask for human approval?\nWhat tasks would you automate completely?\nAnd what tasks would require a human-in-the-loop?\n4️⃣ Your agent can access customer databases, APIs, and internal tools.\nHow would you prevent it from taking dangerous actions?\nWhat permissions model would you design?\n5️⃣ Your single-agent system works perfectly today.\nTomorrow the business wants:\n→ Research Agent\n→ Planning Agent\n→ Execution Agent\n→ Review Agent\n\nHow do you decide whether to move to a multi-agent architecture?\nAnd when is that a bad idea?\nThese were not agent questions.\nThey were engineering questions.\n\nAnd that's where many candidates struggle.\nLearning how to call tools is easy.\nUnderstanding orchestration, reliability, security, observability, and production trade-offs is what separates a beginner from an AI Engineer.\n\nMost candidates focus on:\n→ Frameworks\n→ Demos\n→ Tool Calling\n\nStrong candidates focus on:\n→ Failure Modes\n→ Reliability\n→ Guardrails\n→ Cost\n→ System Design\n\nIf questions like these make you think,\n\"I'm not sure how I'd answer that in an interview...\"\nthat's exactly why I created the AI Engineer Interview Kit.\n\nInside you'll find:\n→ 500+ AI Interview Questions\n→ RAG Interview Preparation\n→ Agentic AI & LangGraph Questions\n→ System Design Scenarios\n→ Production AI Failures\n→ Evaluation Frameworks\n→ Real Hiring Manager Questions\nLearn → Practice → Perform → Get Hired\nEnroll here: https://lnkd.in/guPzFkTe\n\n♻️ Repost this so it reaches someone preparing for AI interviews this week.\n➕ Follow Naresh Edagotti for more AI Engineering, Agents, RAG, System Design, and Interview Preparation content.",
+  "publishedAt": "2026-10-10T02:00:03.893Z",
+  "author": {
+    "name": "Naresh Edagotti",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/naresh-edagotti-6a71a1233/",
+    "publicIdentifier": "naresh-edagotti-6a71a1233",
+    "followersCount": 47514,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHuTKle08X2Yw/profile-displayphoto-scale_400_400/B4DaEBHGdrJYAk-/0/1791020002412?e=2147483647&v=beta&t=omVnGe5a6TPtEA2VR94CpOkC1Pic7EHtrg5Plso4vaw"
+  },
+  "engagement": {
+    "reactionsCount": 165,
+    "commentsCount": 42,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "Naresh Edagotti",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/naresh-edagotti-6a71a1233/",
+      "publicIdentifier": "naresh-edagotti-6a71a1233"
+    }
+  ],
+  "media": [],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 14,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514297448190689284",
+  "urn": "urn:li:activity:7514297448190689284",
+  "activityId": "7514297448190689284",
+  "postUrl": "https://www.linkedin.com/posts/liamdarmody_most-ai-agent-videos-are-made-for-engineers-activity-7514297448190689284-GdMg",
+  "postType": "POST",
+  "contentTypes": [
+    "VIDEO"
+  ],
+  "text": "Most AI agent videos are made for engineers.\n\nI spent weeks finding that out.\n\nThis came up in a recent conversation with Adam Gordon Bell.\n\nI'm running a free live session for everyone else on Tuesday, 13 October, at 5pm UK:\nhttps://lnkd.in/ecvTKtA5\n\nThe people I'm building for already use ChatGPT and Claude.\n\nBusiness owners, founders, consultants and coaches.\n\nThey've heard what agents and agent teams can do.\nBut they have no idea where to start.\n\nSo they look on YouTube, or read blog posts.\n\nMost of it's written for engineers. For developers.\n\nSo it goes over their heads.\n\nIt's so easy to get overwhelmed.\n\nThat's where I started too.\n\nWhen I first looked into this for my own business, I spent days and weeks scouring YouTube.\n\nI kept thinking: surely there's an easier way to get up to speed with this.\n\nYou can use coding agents like Claude Code or Codex for knowledge work that isn't software development.\n\nThat's what The AI-Native Accelerator is for.\n\nNo coding needed.\n\nThe founding cohort starts later this month: four weeks to become AI-native.\n\nApplications close Friday 16 October.\n\nOn Monday, I opened registrations for next week's free session.\n\nWhen Adam and I spoke yesterday, over 80 people had signed up.\n\nSolo operators, founders, and owners with small and mid-sized teams.\n\nPeople who want to work out what AI-native means for a business that isn't made up of software engineers.\n\nWhere did you get stuck when you first looked into AI agents?\n\nRegister free: https://lnkd.in/eMSZtJPc\nAccelerator details: https://lnkd.in/epCf5wgD\n\nQuestions? DM me \"team\".\n\n♻️ Repost this to help others.\nAnd follow Liam Darmody for more.",
+  "publishedAt": "2026-10-09T12:15:20.543Z",
+  "author": {
+    "name": "Liam Darmody",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/liamdarmody/",
+    "publicIdentifier": "liamdarmody",
+    "followersCount": 47491,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHcCEF55eH7UA/profile-displayphoto-scale_400_400/B4EZp6AWmwHgAg-/0/1762983505481?e=2147483647&v=beta&t=V_bp5M_9jvfn63SMAs93SOvmX88EQypkXL9qasxiHAc"
+  },
+  "engagement": {
+    "reactionsCount": 111,
+    "commentsCount": 89,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "Adam Gordon Bell",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/adamgordonbell/",
+      "publicIdentifier": "adamgordonbell"
+    },
+    {
+      "name": "Liam Darmody",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/liamdarmody/",
+      "publicIdentifier": "liamdarmody"
+    }
+  ],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGWdzHHYFdQQg/mp4-720p-30fp-crf28/B4EaEgjgKSKEB8-/0/1791547556133?e=2147483647&v=beta&t=SaScjC2jfjvNYWxLLjcCLJzxq6saEbDOHQ1xVr6RFcM",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQGWdzHHYFdQQg/videocover-high/B4EaEgjgKSKEBM-/0/1791547543779?e=2147483647&v=beta&t=QdehN96tDerkEUH1rg6UB19OVWdVMyqc30HHdg8Ck2Q",
+      "title": null,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 120
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 15,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514316252052361218",
+  "urn": "urn:li:activity:7514316252052361218",
+  "activityId": "7514316252052361218",
+  "postUrl": "https://www.linkedin.com/posts/ricknucci_picture-1000-employees-and-10000-ai-agents-activity-7514316252052361218-5L3q",
+  "postType": "POST",
+  "contentTypes": [
+    "TEXT"
+  ],
+  "text": "Picture 1,000 employees and 10,000 AI agents working around them.\n\nThat’s a much more likely endpoint for enterprise AI than 1 omni AI doing everything for your company.\n\nI was at an AI Innovation Day hosted by HSBC recently, and a number shared by a panelist has stuck with me: they expect companies could eventually have 10 to 20 agents running per employee.\n\nSome will be the agents we interact with directly. They’ll prep us for meetings, respond to emails, or help us get work done.\n\nOthers will operate almost entirely behind the scenes: monitoring conversations, identifying patterns, keeping knowledge up to date, checking for security issues, and making the agents in front of us better.\n\nThat’s why I don’t think the future is one AI that knows everything and does everything.\n\nIt’s a series of specialized agents, delegated to specific functions across the company.\n\nAnd once you have that many agents running, a different problem becomes much more important:\n\nWhat context are all of them working from?\n\nIf sales has one version of the truth, support has another, and every agent is assembling its own context from a different set of systems, you can imagine how quickly things get messy.\n\nThe more agents we deploy, the more important it becomes to give them a shared, trusted source of company context.\n\nAnd once you’re talking about tens of thousands, hundreds of thousands, or even millions of agents across a company, they simply can’t all be working from different versions of the truth.\n\nAt least not effectively.",
+  "publishedAt": "2026-10-09T13:30:03.733Z",
+  "author": {
+    "name": "Rick Nucci",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/ricknucci/",
+    "publicIdentifier": "ricknucci",
+    "followersCount": 12326,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHcZ7XC8aM88g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1522941911160?e=2147483647&v=beta&t=WvdSVFewfUtLNADj8PWc5eJbGqmhu70bR6RM1MWvMIQ"
+  },
+  "engagement": {
+    "reactionsCount": 13,
+    "commentsCount": 3,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "HSBC",
+      "type": "COMPANY",
+      "url": "https://www.linkedin.com/company/hsbc/",
+      "publicIdentifier": "hsbc"
+    }
+  ],
+  "media": [],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 16,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514324003319267328",
+  "urn": "urn:li:activity:7514324003319267328",
+  "activityId": "7514324003319267328",
+  "postUrl": "https://www.linkedin.com/posts/amd_as-small-open-models-advance-so-does-the-activity-7514324003319267328-znbM",
+  "postType": "POST",
+  "contentTypes": [
+    "VIDEO"
+  ],
+  "text": "As small open models advance, so does the potential for AI agents to work together.\n\nAMD SVP and GM of the Computing and Graphics Group, Jack Huynh envisions agents multiplying individual impact, from one agent assisting with a task to teams working on a much larger scale.\n\nWatch Jack share his perspective on what comes next for agentic AI.",
+  "publishedAt": "2026-10-09T14:00:51.778Z",
+  "author": {
+    "name": "AMD",
+    "type": "COMPANY",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/company/amd/",
+    "publicIdentifier": "amd",
+    "followersCount": 2628419,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D560BAQFCdxxVA_xhqQ/company-logo_100_100/B56ZnuIjafHUAU-/0/1760636844195/amd_logo?e=2147483647&v=beta&t=7sw3BjNNNSGV0P6imSg3j1KA9Z07vLBQjTYIMB-k8zI"
+  },
+  "engagement": {
+    "reactionsCount": 62,
+    "commentsCount": 3,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "Jack Huynh",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/jackhuynh/",
+      "publicIdentifier": "jackhuynh"
+    }
+  ],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E10AQEkqAIHFuu16g/mp4-720p-30fp-crf28/B4EaEg9ztBIwBk-/0/1791554447270?e=2147483647&v=beta&t=rdE3_2JwV3T5dOwOiRvv8MMTDR-5dpvnLUQgSr-U8ts",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E10AQEkqAIHFuu16g/videocover-high/B4EaEg9ztBIwAo-/0/1791554442170?e=2147483647&v=beta&t=260S9BnCHKWz_zQgFfcTyao7hoEe2uPE0OfHvhSXF1c",
+      "title": null,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 42
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 17,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514354172272480257",
+  "urn": "urn:li:activity:7514354172272480257",
+  "activityId": "7514354172272480257",
+  "postUrl": "https://www.linkedin.com/posts/law-ai-institute_ai-agents-could-engage-in-conduct-that-would-activity-7514354172272480257-8Z_6",
+  "postType": "POST",
+  "contentTypes": [
+    "VIDEO"
+  ],
+  "text": "“AI agents could engage in conduct that would be a tort or even a crime for a human, and yet no one could be liable under current law.”\n\nLawAI’s Non-Resident Senior Fellow Gabriel Weil testified on Monday at the NYC Council Hearing on AI Safeguards.\n\nFollowing recent cyber incidents, Gabe observed that AI agents expose a gap in existing law. Because AI agents are not legal persons, it can be difficult to hold anyone or any company accountable for their misconduct. Gabe proposes a “simple fix”: whenever an AI agent engages in conduct that would be a crime or a tort for a human, someone has to be liable for that.\n\nWatch him explain below:",
+  "publishedAt": "2026-10-09T16:00:44.618Z",
+  "author": {
+    "name": "Institute for Law & AI (LawAI)",
+    "type": "COMPANY",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/company/law-ai-institute/",
+    "publicIdentifier": "law-ai-institute",
+    "followersCount": 26700,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGsRNyqgNU7hg/company-logo_100_100/B4EZuUVZSkHoAU-/0/1767720195782/law_ai_institute_logo?e=2147483647&v=beta&t=V3jW7XoKn1n7kXXHFTtVo24rU7eoFfugNSXHaB-o2XY"
+  },
+  "engagement": {
+    "reactionsCount": 49,
+    "commentsCount": 5,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "Gabriel Weil",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/gabriel-weil-7831a820/",
+      "publicIdentifier": "gabriel-weil-7831a820"
+    }
+  ],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQH7YpXrAcKb2w/mp4-720p-30fp-crf28/B4EaEhZOZ3JIB8-/0/1791561638764?e=2147483647&v=beta&t=qUi1ufYwQk4X0zO9kp_ulviKURhtE3DM2mhaqKkoGzE",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQH7YpXrAcKb2w/videocover-high/B4EaEhZOZ3JIBM-/0/1791561628193?e=2147483647&v=beta&t=m3v8ELJKVzj6QE3IValihjaLRUCFtwuvMSNNMQ8PSkw",
+      "title": null,
+      "width": 720,
+      "height": 960,
+      "durationSeconds": 73
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 18,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514331338959708160",
+  "urn": "urn:li:activity:7514331338959708160",
+  "activityId": "7514331338959708160",
+  "postUrl": "https://www.linkedin.com/posts/diegolomanto_ai-agents-arent-inherently-evil-theyre-activity-7514331338959708160-3aPH",
+  "postType": "POST",
+  "contentTypes": [
+    "IMAGE"
+  ],
+  "text": "AI agents aren’t inherently evil. They’re over-enthusiastic workers who need better management. And this management isn’t about better prompting, it’s all about the guardrails that live in the system.\n\nLast December, one of SaaStr's outbound AI agents ran its own A/B test, offering prospects free tickets to their flagship annual conference. Nobody had approved that, and by the time anyone caught it, $2,000 in tickets were gone.\n\nThe agent was told to improve conversion, and naturally, free tickets convert. The founder, Jason Lemkin later wrote a piece saying he wasn't sure who was responsible: SaaStr, or the vendor whose guardrails didn't cover that case.\n\nThat story’s not an outlier. Most of these \"rogue agent\" stories come down to the same root cause: a permissions mistake. You grant ”write and delete” access when “read-only” would have done the job.\n\nAnd I get why most CMOs haven't thought about this yet. Agents are new. The pace is relentless, and there's always something more urgent. But the agents write the emails your prospects receive. When one spends money you didn't authorize or sends an offer nobody approved, you answer for it.\n\nThe natural instinct is to treat this like a prompt problem: write better instructions, add more rules. But telling an agent what not to do is a request.\n\nTaking away its ability to do it is a control. SaaStr could have told that agent a hundred times not to give away free tickets. It gave them away anyway, because the vendor never built the switch that would have stopped it.\n\nGuardrails have to live in the system, not in your head. You can't set read-only access on a platform that doesn't expose that lever. Building that is the vendor's job. Yours is to demand it, configure it, and check it before an agent touches your customers.\n\nWe built this at WRITER: least privilege, human approval for irreversible actions, and an audit trail that answers \"what did it do, and on whose authority.\" Security teams have used these controls for 30 years. We just brought them to agents.\n\nBenjamin Popper mapped the four levels of agent autonomy and the minimum controls each one needs before it touches a customer: https://lnkd.in/enwDF5an",
+  "publishedAt": "2026-10-09T14:30:00.732Z",
+  "author": {
+    "name": "Diego Lomanto",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/diegolomanto/",
+    "publicIdentifier": "diegolomanto",
+    "followersCount": 13215,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEkW_vuOtHgGw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718891788352?e=2147483647&v=beta&t=xmuOpeunqFqtyODdK_p6YkZ--IGGzJ4bcZNDnutrzcQ"
+  },
+  "engagement": {
+    "reactionsCount": 27,
+    "commentsCount": 4,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "WRITER",
+      "type": "COMPANY",
+      "url": "https://www.linkedin.com/company/getwriter/",
+      "publicIdentifier": "getwriter"
+    },
+    {
+      "name": "Benjamin Popper",
+      "type": "PERSON",
+      "url": "https://www.linkedin.com/in/benjamin-popper-6b904a4/",
+      "publicIdentifier": "benjamin-popper-6b904a4"
+    }
+  ],
+  "media": [
+    {
+      "type": "IMAGE",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQF7Qj6K4aZm3A/feedshare-shrink_800/B4EaEhEiHfJ0Ac-/0/1791556199174?e=2147483647&v=beta&t=oFTe1NNAkLCcRZKB8LphcBdRrttWiTdrTjcS_U234sA",
+      "thumbnailUrl": null,
+      "title": "table",
+      "width": null,
+      "height": null,
+      "durationSeconds": null
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 19,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514661027347759104",
+  "urn": "urn:li:activity:7514661027347759104",
+  "activityId": "7514661027347759104",
+  "postUrl": "https://www.linkedin.com/posts/charlywargnier_ai-agents-can-build-your-app-mo-can-help-activity-7514661027347759104-cwFt",
+  "postType": "POST",
+  "contentTypes": [
+    "VIDEO"
+  ],
+  "text": "AI AGENTS CAN BUILD YOUR APP. MO CAN HELP YOU FIND OUT WHERE IT BREAKS.\n\nMo from Momentic explores any app using a URL, a testing brief, and test accounts if needed. No test scripts required.\n\nIt reports test cases, verdicts, coverage gaps, and the bugs it finds.\n\nEvery bug report gets console/network logs, detailed reproduction steps, and a video replay.\n\nThat part excites me: you get evidence to investigate, beyond a list of suspected issues.\n\nI built llmexplorer.org in 2025 as a fun project and am planning a refresh, so I put it through Mo.\n\nIn one single run:\n\n→ Multiple agents explored pages in parallel, including search filters and model listings\n→ They tested external links and UI edge cases, completing 55 test cases\n→ The audit surfaced 8 reported bugs, including broken links, clipped organization chips, and filter-trigger issues\n\nAfter fixing a bug, I can use the reproduction steps to write a regression test in Momentic and run it locally or in CI.\n\nExplore → reproduce → fix → add regression coverage.\n\nMo doesn’t guarantee a bug-free app, but it gave me a concrete starting point for the refresh.\n\nWatch my demo below.\n\nSeeing the agents work through my own site and surface actionable findings is pretty great 👀\n\nyou can try Mo from Momentic here → https://lnkd.in/emdrNUgH",
+  "publishedAt": "2026-10-10T12:20:04.569Z",
+  "author": {
+    "name": "Charly Wargnier ♨️",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/charlywargnier/",
+    "publicIdentifier": "charlywargnier",
+    "followersCount": 85662,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG9VjCXJxGssQ/profile-displayphoto-scale_400_400/B4EaEcR86XI8Ag-/0/1791475834434?e=2147483647&v=beta&t=I-6Px0BjIpXPpigMnjaJm0brc944bQqUeJngiVHR8pQ"
+  },
+  "engagement": {
+    "reactionsCount": 2,
+    "commentsCount": 1,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [
+    {
+      "name": "Momentic",
+      "type": "COMPANY",
+      "url": "https://www.linkedin.com/company/momentic-ai/",
+      "publicIdentifier": "momentic-ai"
+    }
+  ],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGKlMRaJJnPmw/mp4-720p-30fp-crf28/B4EaElwXR8H4Bo-/0/1791634802843?e=2147483647&v=beta&t=_SRyQfg_iEg4VAax5YiP2gtJKS6NpbNovjtFMYtW-2E",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E10AQGKlMRaJJnPmw/videocover-high/B4EaElwXR8H4As-/0/1791634800075?e=2147483647&v=beta&t=POCzchAgRYir6L0PIk7QIuUTnG0DAwGVrGdmEY5UsX8",
+      "title": null,
+      "width": 1280,
+      "height": 720,
+      "durationSeconds": 49
+    }
+  ],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": false,
+  "quoteText": null,
+  "originalPost": null,
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+},
+{
+  "rowType": "post",
+  "query": "AI agents",
+  "queryIndex": 0,
+  "position": 20,
+  "searchSource": "WEB_INDEX",
+  "searchSemantics": "WEB_INDEX",
+  "coverageStatus": "LIMIT_REACHED",
+  "postId": "urn:li:activity:7514342568306876417",
+  "urn": "urn:li:activity:7514342568306876417",
+  "activityId": "7514342568306876417",
+  "postUrl": "https://www.linkedin.com/posts/chrisyeh_just-like-most-web-traffic-are-now-ai-agents-activity-7514342568306876417-H_or",
+  "postType": "QUOTE_POST",
+  "contentTypes": [
+    "QUOTE_POST"
+  ],
+  "text": "Just like most web traffic are now AI agents, the same will happen within the enterprise. The existing tools aren't ready, which is why we humans and our agents need agent-first productivity tools! That's why I and the team at Blitzscaling Ventures are proud and excited to be Ambiguous AI investors! Go Ryan Waliany, Dan Hsiao, and team!",
+  "publishedAt": "2026-10-09T15:14:38.017Z",
+  "author": {
+    "name": "Chris Yeh",
+    "type": "PERSON",
+    "headline": null,
+    "profileUrl": "https://www.linkedin.com/in/chrisyeh/",
+    "publicIdentifier": "chrisyeh",
+    "followersCount": 37249,
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHToMCTAiuJbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516156296058?e=2147483647&v=beta&t=H0iFMKIV7Y2uode1cy1qWOwRga_NUNhApWt5EI49nbI"
+  },
+  "engagement": {
+    "reactionsCount": 6,
+    "commentsCount": 0,
+    "repostsCount": null
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [],
+  "article": null,
+  "isRepost": false,
+  "isQuotePost": true,
+  "quoteText": "Just like most web traffic are now AI agents, the same will happen within the enterprise. The existing tools aren't ready, which is why we humans and our agents need agent-first productivity tools! That's why I and the team at Blitzscaling Ventures are proud and excited to be Ambiguous AI investors! Go Ryan Waliany, Dan Hsiao, and team!",
+  "originalPost": {
+    "postId": null,
+    "postUrl": null,
+    "text": "Ever ask your AI agent to do something and it says “I don’t have access”? 🙃 Most of the apps where work happens weren’t built for agents, so they either get stuck or end up borrowing your login.\n\nThat's why we're excited to launch Ambiguous Workspace: 18 productivity apps reimagined so work flows between your team and agents. They include Docs, Mail, Chat, Sheets, CRM, Calendar, and more.\n\nHere's the difference. Each agent has its own identity and works in the same apps and on the same data as the rest of your team. You can send it an email, message it in chat, assign it a task, or mention it in a comment.\n\nIt can write a document, build a sheet, file a task, or send an email, and your team can review and continue the work in the same workspace.\n\nEvery interface was designed from the ground up, so if a human can do it, there’s an endpoint for your favorite agent.\n\nEvery agent has a manager, and an admin can revoke its access at any time. By default, you approve what it sends outside your workspace.\n\nAll 18 productivity apps are free for up to 5 teammates. Agents can get started through MCP or CLI in under a minute. Create a workspace — link in the comments.",
+    "author": {
+      "name": "Ambiguous AI",
+      "type": "COMPANY",
+      "headline": null,
+      "profileUrl": "https://www.linkedin.com/company/ambiguous-ai/",
+      "publicIdentifier": "ambiguous-ai",
+      "followersCount": 374,
+      "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D560BAQGmJyw7bNt0CQ/company-logo_100_100/B56Z0L5_HgJgAQ-/0/1774021243674/ambiguous_ai_logo?e=2147483647&v=beta&t=QE5qpVUBaOvIxtOTlbUtIId-yj05a2qZs6k8vG_4NjI"
+    },
+    "hashtags": [],
+    "mentions": [],
+    "media": [
+      {
+        "type": "VIDEO",
+        "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQFt6v2fFWCOHQ/mp4-720p-30fp-crf28/B56aEezhQYIEB8-/0/1791518192575?e=2147483647&v=beta&t=zJNsYfJMhVHJqzsphg5H5zFEgnN01AYwJmMy-hzWckA",
+        "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5605AQFt6v2fFWCOHQ/videocover-high/B56aEezhQYIEBM-/0/1791518187053?e=2147483647&v=beta&t=IgbTnWzl9LaYqtLO35giXrrrHCQkJHNsmqPEKSbsI9w",
+        "title": null,
+        "width": null,
+        "height": null,
+        "durationSeconds": null
+      }
+    ],
+    "article": null
+  },
+  "matchedFilters": {
+    "query": true
+  },
+  "scrapedAt": "2026-10-10T15:23:41.430Z"
+}]
